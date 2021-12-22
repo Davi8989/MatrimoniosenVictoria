@@ -1,0 +1,26 @@
+h6.MuiTypography-h6 {
+    font-size: 1 rem;
+    color: #357A6B;
+    font-weight: bold;
+ }
+
+ div{
+    color: #357A6B;  
+ }
+
+ thead tr th { 
+   position: sticky;
+   top: 0;
+   z-index: 10;
+   background-color: #ffffff;
+   color: #357a6b;
+}
+
+.table-responsive { 
+   height:400px;
+   overflow:scroll;
+}
+
+
+
+
